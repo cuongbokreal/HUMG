@@ -1,4 +1,3 @@
-Tên game: Whac A Mole <br/>
-Thực hiện bởi: Nhóm Xe Tăng| <a target="_blank" href="https://www.facebook.com/cuongbok">Nguyễn Ngọc Cường</a>, Trần Minh Cường, Nguyễn Danh Duy
+<span style="font-family: times;"><span style="background-color: white; font-size: 16px;"><span style="color: #1f2328;">Tên game: </span><b><span style="color: red;">Whac A Mole</span></b></span>
 
-
+<br style="background-color: white; box-sizing: border-box; color: #1f2328; font-size: 16px;" /><span style="background-color: white; color: #1f2328; font-size: 16px;">Thực hiện bởi: </span><span style="background-color: white; font-size: 16px;"><b><span style="color: #6aa84f;">Nhóm Xe Tăng</span><span style="color: #38761d;">&nbsp;</span></b></span><span style="background-color: white; color: #1f2328; font-size: 16px;">|&nbsp;</span><a href="https://www.facebook.com/cuongbok" target="_blank">Nguyễn Ngọc Cường</a><span style="background-color: white; color: #1f2328; font-size: 16px;">, <a href="https://www.facebook.com/TrannMinhhCuong" target="_blank">Trần Minh Cường</a>, <a href="https://www.facebook.com/nguyendanhduy05" target="_blank">Nguyễn Danh Duy</a></span></span>
